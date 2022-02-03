@@ -1,0 +1,18 @@
+.navbarWrapper{
+    height: 50px;
+    width: 100%;
+    background-color: cyan;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.linkOne{
+    flex: 6
+}
+
+.linkTwo{
+    flex: 6
+}
